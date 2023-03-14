@@ -1,3 +1,7 @@
+# Jose Miguel Reyes
+# CIS 3301
+# Merge sort algorithm
+
 def merge(bottom, top):
     i = j = 0
 
