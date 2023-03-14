@@ -4,7 +4,7 @@
 
 In this CODE assignment you are asked to implement in Python the merge sort algorithm.
 
-* Implement the recursie merge sort algorithm code in `get_merge_sorted_list`
+* Implement the recursive merge sort algorithm code in `get_merge_sorted_list`
 * Your `get_merge_sorted_list` receives a unsorted list and returns a **sorted** list
 
 Implement your code in code_13.py. To test your code, call your functions inside the if `__name__ == "__main__":` statement.
